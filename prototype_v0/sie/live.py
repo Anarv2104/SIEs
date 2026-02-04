@@ -84,7 +84,7 @@ def print_banner() -> None:
     print(f"""
 {BOLD}{CYAN}╔══════════════════════════════════════════════════════════════════╗
 ║            {WHITE}S I E   K E R N E L   P R O T O T Y P E{CYAN}            ║
-║          {DIM}{WHITE}Supervised Intelligence Entity — Live Run{CYAN}{BOLD}           ║
+║          {DIM}{WHITE}Synthetic Intelligence Economies — Live Run{CYAN}{BOLD}           ║
 ╚══════════════════════════════════════════════════════════════════╝{RESET}
 """)
 
